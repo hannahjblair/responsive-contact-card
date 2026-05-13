@@ -11,6 +11,11 @@ body {
     background-color: #e6f2ff;
     border-radius: 15px;
     padding: 1em;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%); 
 }
 
 img {
